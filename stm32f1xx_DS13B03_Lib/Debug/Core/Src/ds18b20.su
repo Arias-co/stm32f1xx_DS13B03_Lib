@@ -1,0 +1,11 @@
+DS18B20.c:11:9:DS18B20_Start	16	static
+DS18B20.c:29:6:DS18B20_StartAll	8	static
+DS18B20.c:39:9:DS18B20_Read	40	static
+DS18B20.c:156:9:DS18B20_GetResolution	16	static
+DS18B20.c:185:9:DS18B20_SetResolution	32	static
+DS18B20.c:255:9:DS18B20_Is	0	static
+DS18B20.c:265:9:DS18B20_SetAlarmLowTemperature	24	static
+DS18B20.c:320:9:DS18B20_SetAlarmHighTemperature	24	static
+DS18B20.c:375:9:DS18B20_DisableAlarmTemperature	16	static
+DS18B20.c:422:9:DS18B20_AlarmSearch	0	static
+DS18B20.c:428:9:DS18B20_AllDone	0	static

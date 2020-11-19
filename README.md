@@ -2,5 +2,7 @@
 Libreria para el uso del sensor de temperatura  ds18b20 ( incluye la libreria OnWire ).
 la base de esta libreria fue tomada de la siguiente fuente.
 http://stm32f4-discovery.net/2015/07/hal-library-06-ds18b20-for-stm32fxxx/
+de la cual se realizaron algunas modificaciones para no depender de otros archivos  
+creados por del autor original.
 
 
